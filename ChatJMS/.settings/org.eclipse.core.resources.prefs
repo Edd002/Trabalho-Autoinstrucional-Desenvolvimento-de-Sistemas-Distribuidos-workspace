@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/app/chat/server/ChatConsumer.java=UTF-8
+encoding//src/app/chat/server/ChatPublisher.java=UTF-8
+encoding//src/app/chat/util/ChatMessage.java=UTF-8
+encoding//src/app/chat/util/ChatUser.java=UTF-8
+encoding//src/app/chat/view/JFrameChat.java=UTF-8
+encoding//src/app/chat/view/JFrameLogin.java=UTF-8
